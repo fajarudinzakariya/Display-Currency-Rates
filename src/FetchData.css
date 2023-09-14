@@ -1,0 +1,16 @@
+*{
+    background-color: rgb(255, 128, 0);
+    color: white;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 17%;
+    font-size: 30px;
+
+}
+
+table, th, td{
+    padding: 7px;
+}
